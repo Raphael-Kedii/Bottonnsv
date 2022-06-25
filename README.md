@@ -1,1 +1,1 @@
-Android application 
+Android application implementing bottom navigation
